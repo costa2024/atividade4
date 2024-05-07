@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #84cc16;
+
+    color: #ffffff;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3 {
+    color: #000000;
+
+}
+
+.lista {
+    justify-items: center;
+}
