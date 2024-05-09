@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #84cc16;
+    background-color: #65a30d;
 
     color: #ffffff;
 
@@ -14,4 +14,8 @@ h1, h2, h3 {
 
 .lista {
     justify-items: center;
+}
+
+header {
+    background-color: #166534;
 }
